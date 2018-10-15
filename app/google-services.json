@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "927988932039",
+    "firebase_url": "https://fir-app-dbf4e.firebaseio.com",
+    "project_id": "fir-app-dbf4e",
+    "storage_bucket": "fir-app-dbf4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927988932039:android:bc8191593faaa462",
+        "android_client_info": {
+          "package_name": "com.example.anacamargos.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927988932039-83ib1b9bnfjr6vkdcbcp3neac7vcbv1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI6QuCZmkrzaJ9CeHm04PGSfprOqXvas4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
